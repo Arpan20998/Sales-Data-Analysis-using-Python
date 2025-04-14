@@ -74,7 +74,7 @@ Business Intelligence
 Python Scripting
 
 
-✅ Future Improvements
+# ✅ Future Improvements
 Automate data fetching and dashboard generation
 
 Integrate with Power BI or Tableau for interactive dashboards
