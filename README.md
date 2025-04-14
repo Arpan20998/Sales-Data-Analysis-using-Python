@@ -1,18 +1,20 @@
 📊 Sales Data Analysis with Python
+
 This project is a Sales Data Analysis performed using Python to derive business insights from historical sales data. The objective is to analyze trends, customer behavior, and product performance to support data-driven decision-making.
 
 🚀 Project Overview
+
 In this project, I answered the following key business questions using real-world sales data:
 
-What was the best month for sales? How much was earned that month?
+Q1. What was the best month for sales? How much was earned that month?
 
-Which city had the highest number of sales?
+Q2. Which city had the highest number of sales?
 
-What time should advertisements be displayed to maximize the likelihood of customer purchases?
+Q3. What time should advertisements be displayed to maximize the likelihood of customer purchases?
 
-What products are most often sold together?
+Q4. What products are most often sold together?
 
-What product sold the most and why?
+Q5. What product sold the most ?
 
 The project involved data cleaning, exploratory data analysis, visualization, and insight extraction.
 
@@ -59,16 +61,6 @@ Purchase Address
 
 Note: This project assumes all monthly CSV files are located in a folder and are merged using glob.
 
-📊 Visualizations
-Several graphs and charts were generated to better understand the data:
-
-Bar plots for monthly and city-wise sales
-
-Line charts for time-based purchase behavior
-
-Heatmaps for peak purchase hours
-
-Histograms and horizontal bar charts for product performance
 
 🧠 Skills Demonstrated
 Data Cleaning & Preparation
@@ -81,20 +73,7 @@ Business Intelligence
 
 Python Scripting
 
-📌 How to Run
-Clone the repository
 
-Ensure all monthly CSV files are in the specified data folder
-
-Run the Jupyter Notebook or Python script
-
-Explore the visualizations and insights
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/sales-data-analysis.git
-cd sales-data-analysis
 ✅ Future Improvements
 Automate data fetching and dashboard generation
 
