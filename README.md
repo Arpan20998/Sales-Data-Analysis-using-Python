@@ -1,4 +1,4 @@
-📊 Sales Data Analysis with Python
+# 📊 Sales Data Analysis with Python
 
 This project is a Sales Data Analysis performed using Python to derive business insights from historical sales data. The objective is to analyze trends, customer behavior, and product performance to support data-driven decision-making.
 
