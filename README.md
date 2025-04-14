@@ -2,7 +2,7 @@
 
 This project is a Sales Data Analysis performed using Python to derive business insights from historical sales data. The objective is to analyze trends, customer behavior, and product performance to support data-driven decision-making.
 
-#🚀 Project Overview
+# 🚀 Project Overview
 
 In this project, I answered the following key business questions using real-world sales data:
 
@@ -18,7 +18,7 @@ Q5. What product sold the most ?
 
 The project involved data cleaning, exploratory data analysis, visualization, and insight extraction.
 
-#🛠️ Tools & Libraries Used
+# 🛠️ Tools & Libraries Used
 Python
 
 Pandas – for data manipulation and analysis
@@ -33,7 +33,7 @@ Glob – to read multiple CSV files
 
 itertools.combinations and collections.Counter – to find frequently bought product pairs
 
-#📈 Key Insights
+# 📈 Key Insights
 Identified the best-performing month in terms of sales.
 
 Discovered the top cities contributing to the revenue.
@@ -44,7 +44,7 @@ Analyzed product bundling to find combinations often purchased together.
 
 Highlighted the top-selling product and reasons for its high demand.
 
-#📂 Dataset
+# 📂 Dataset
 The data used consists of monthly sales records stored in multiple CSV files. Each file contains information like:
 
 Order ID
@@ -62,7 +62,7 @@ Purchase Address
 Note: This project assumes all monthly CSV files are located in a folder and are merged using glob.
 
 
-#🧠 Skills Demonstrated
+# 🧠 Skills Demonstrated
 Data Cleaning & Preparation
 
 Exploratory Data Analysis (EDA)
